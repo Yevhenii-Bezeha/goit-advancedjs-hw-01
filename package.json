@@ -5,7 +5,7 @@
   "homepage": "https://Yevhenii-Bezeha/goit-advancedjs-hw-01",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+    "build": "parcel build src/*.html --public-url /goit-advancedjs-hw-01/"
   },
   "repository": {
     "type": "git",
